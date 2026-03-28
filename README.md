@@ -5,7 +5,7 @@ A futuristic web-based hand tracking system that detects fingers, tracks motion,
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/finger-vision/
+👉 https://8ernity.github.io/finger-vision/
 
 ---
 
