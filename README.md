@@ -1,13 +1,29 @@
-# FingerVision ✋
+# ✋ FingerVision — Real-time Hand Tracking
 
-Real-time hand tracking using MediaPipe.
+A futuristic web-based hand tracking system that detects fingers, tracks motion, and allows air drawing using your webcam.
 
-Features:
-- Finger counting
-- Left & right hand detection
-- Air drawing mode
-- Real-time coordinates
+---
 
-Built with:
-- HTML, CSS, JavaScript
-- MediaPipe Hands
+## 🚀 Live Demo
+👉 https://your-username.github.io/finger-vision/
+
+---
+
+## 🧠 Features
+
+- 🖐 Real-time hand tracking (MediaPipe)
+- 🔢 Finger counting (both hands)
+- 🎯 Fingertip coordinate tracking
+- ✏️ Air drawing mode
+- 🧭 Left & right hand detection
+- 🎨 Beautiful futuristic UI
+- ⚡ Smooth real-time performance
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Modern UI + Animations)
+- JavaScript (Vanilla)
+- MediaPipe Hands (Google)
