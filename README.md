@@ -1,4 +1,9 @@
-# ✋ FingerVision — Real-Time Hand Tracking 🚀
+<h1 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270b/512.gif" alt="✋" width="38" style="vertical-align:-4px;">
+ FingerVision — Real-Time Hand Tracking
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="38" style="vertical-align:-4px;">
+</h1>
+
 
 <p align="center">
   <b>A futuristic web-based hand tracking system powered by AI</b><br>
@@ -87,6 +92,7 @@ sequenceDiagram
 
 ## ⚙️ How It Works
 
+
 1. Webcam captures live video
 2. MediaPipe detects hand landmarks (21 key points)
 3. JavaScript processes coordinates
@@ -94,7 +100,11 @@ sequenceDiagram
 
 ---
 
-## 📦 Run Locally
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e6/512.gif" alt="📦" width="28" style="vertical-align:-4px;">
+  Run Locally
+</h2>
+
 
 ```bash
 git clone https://github.com/8ernity/finger-vision.git
@@ -105,7 +115,11 @@ Then open `index.html` in your browser.
 
 ---
 
-## 🎯 Use Cases
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="28" style="vertical-align:-4px;">
+  Use Cases
+</h2>
+
 
 * Gesture-based UI interaction
 * Virtual drawing / teaching tools
