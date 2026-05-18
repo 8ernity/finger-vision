@@ -13,7 +13,11 @@
 
 ---
 
-## 🧠 What is FingerVision?
+##  
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="25" style="vertical-align:-4px;">
+  What is FingerVision?
+</h2>
 
 FingerVision is a **real-time hand tracking web app** that uses computer vision to detect and track your fingers through a webcam.
 
@@ -25,7 +29,11 @@ It allows you to:
 
 ---
 
-## ✨ Features
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="25" style="vertical-align:-4px;">
+  Features
+</h2>
+
 
 * 🖐 **Real-time Hand Tracking** using MediaPipe
 * 🔢 **Finger Counting** (supports both hands)
@@ -37,7 +45,11 @@ It allows you to:
 
 ---
 
-## 🛠️ Tech Stack
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0\_fe0f/512.gif" alt="🛠️" width="28" style="vertical-align:-4px;">
+  Tech Stack
+</h2>
+
 
 | Technology      | Purpose             |
 | --------------- | ------------------- |
