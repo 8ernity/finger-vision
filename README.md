@@ -12,7 +12,10 @@
 
 ---
 
-## 🎬 Live Demo
+<h2 style="margin:0;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="🎬" width="28" style="vertical-align:-4px;">
+  Live Demo
+</h2>
 
 👉 https://8ernity.github.io/finger-vision/
 
@@ -90,7 +93,10 @@ sequenceDiagram
     end
 ```
 
-## ⚙️ How It Works
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="30" height="30" align="center">
+  &nbsp;<b>How It Works</b>
+</h2>
 
 
 1. Webcam captures live video
